@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Alisha
 
-🎓 **Graduation Science Student** | 💡 Web Developer | 🚀 Building Future
+🎓 **Computer Science Student** | 💡 Web Developer | 🚀 Building Future
 
 **Welcome to my GitHub profile! I'm a 2024 graduate actively looking for job opportunities as a fresher. Passionate about learning and building cool projects, I enjoy exploring new technologies and improving my skills.**
 
