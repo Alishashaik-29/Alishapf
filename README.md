@@ -27,8 +27,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Github Status**
-[!Alisha's Github status]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Alishashaik-29&layout=compact&theme=tokyonight)
+![Alisha's Github status](https://github-readme-stats.vercel.app/api/top-langs/?username=Alishashaik-29&layout=compact&theme=tokyonight)
 
 ## 📌 Projects
 Here are some of my projects:
