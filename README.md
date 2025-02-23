@@ -4,14 +4,14 @@
 
 **Welcome to my GitHub profile! I'm a 2024 graduate actively looking for job opportunities as a fresher. Passionate about learning and building cool projects, I enjoy exploring new technologies and improving my skills.**
 
-##** 🚀 About Me**
+## **🚀 About Me**
 - 🎓 **Education**: 2024 Graduate
 - 🔎 **Looking for**: Job opportunities as a fresher
 - 💡 **Interests**: Coding, problem-solving, and learning new technologies
   
 
 ## **💡 Fun Facts:**
--📖 I love journaling 🖊️
+- 📖 I love **journaling**🖊️
 
 
 ## **🛠️ Skills & Technologies**
@@ -27,6 +27,7 @@
 
 
 **Web Development**
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
